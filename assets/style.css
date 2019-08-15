@@ -1,5 +1,5 @@
 #header {
-	background-color: #e50914;
+	background-color: lightblue;
 	color: #ffffff;
 	text-align: center;
 	padding-top: 10px;
@@ -23,14 +23,14 @@ label {
 	font-size: 18px;
 }
 
-#show {
+#game {
 	margin-right: 5px;
 	margin-left: 5px;
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
 
-#netflixSearch {
+#gameSearch {
 	margin: 0 auto;
 	text-align: center;
 	font-family: "Carrois Gothic SC", sans-serif;
@@ -42,7 +42,7 @@ label {
 	flex-wrap: wrap;
 }
 
-.netflixGiphy {
+.gameGiphy {
 	padding: 2px;
 	width: 80%;
 }
